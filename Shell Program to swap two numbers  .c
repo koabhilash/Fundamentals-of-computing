@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "Enter first number: "
 read num1
 
@@ -13,3 +11,4 @@ num2=$temp
 echo "After swapping: "
 echo "First number: $num1"
 echo "Second number: $num2"
+
